@@ -114,6 +114,8 @@ export default {
         padding: 20px;
         border-top-right-radius: 10px;
         border-bottom-right-radius: 10px;
+        font-size: 13px;
+        font-weight: 600;
     }
     
     .wrapper .advanced {
